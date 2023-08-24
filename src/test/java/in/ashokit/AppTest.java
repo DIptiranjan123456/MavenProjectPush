@@ -17,4 +17,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void test(){
+        {
+             System.out.println("test - condition added")
+        }
 }
